@@ -1,7 +1,0 @@
-{
-  "type": "lootbags:loot",
-  "name": "Legendary Gacha",
-  "output": {
-    "table": "resourcefullootbags:lootbags/pools/gacha"
-  }
-}
